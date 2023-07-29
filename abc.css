@@ -1,7 +1,9 @@
 body {
-    background-color: orchid;
+    background-color: beige;
 }
 
 h1 {
-    font-size: 60px;
+    color: orangered;
+    font-size: 30;
+text-align: center;
 }
